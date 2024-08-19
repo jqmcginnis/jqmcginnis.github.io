@@ -5,5 +5,4 @@ repo_description_lines_max: 2
 
 github_repos:
   - jqmcginnis/multi_contrast_inr
-  - jocpae/vessel_graph
   - CompImg/LST-AI
